@@ -1,6 +1,8 @@
+## WIP
+
 # Innovator
 
-## Expereience 
+## Experience 
 
 ## Education 
 
